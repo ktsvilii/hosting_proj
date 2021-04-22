@@ -246,14 +246,6 @@ a {
   background: #ff6842;
 }
 
-.btn--accent::before {
-  content: "";
-  background-image: url("../images/sprite.svg#search");
-  width: 25px;
-  height: 25px;
-  fill: #fff;
-}
-
 .btn--stretched {
   padding-left: 6rem;
   padding-right: 6rem;
