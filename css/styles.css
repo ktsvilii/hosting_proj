@@ -527,6 +527,10 @@ a {
   right: -27px;
 }
 
+.header__description {
+  margin-bottom: 1rem;
+}
+
 @media screen and (min-width: 768px) {
   .testimonial .quote,
   .testimonial .quote__author {
